@@ -1,0 +1,31 @@
+# Ignore NetBeans build files
+/nbproject/private/
+/build/
+/dist/
+/nbbuild/
+/nbdist/
+/nbactions.xml
+/nb-configuration.xml
+
+# Ignore compiled class files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore NetBeans-specific cache
+/nbproject/private/
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Ignore OS junk files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE configs (optional)
+/.idea/
+/.vscode/
